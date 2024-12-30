@@ -92,3 +92,6 @@ ffmpeg -version
 
 python E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\src\video_enhance.py -i E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\inputs\video\result.mp4 -o E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\inputs\video\result.mp4-new.mp4
 
+python E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\src\video_enhance.py -i E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\inputs\video\final.mp4 -o E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\inputs\video\final.mp4-new.mp4
+
+python E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\src\video_enhance.py -i E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\inputs\video\run.mp4 -o E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\inputs\video\run.mp4-new.mp4
