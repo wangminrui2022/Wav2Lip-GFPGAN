@@ -79,6 +79,7 @@ pip install E:\wmr\Wav2Lip-GFPGAN\whl\tb_nightly-2.19.0a20241229-py3-none-any.wh
 pip install -r requirements.txt
 pip install realesrgan
 pip install ffmpeg
+pip install --upgrade ffmpeg-python
 
 python E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\inference_gfpgan.py -i E:\wmr\Wav2Lip-GFPGAN\GFPGAN-master\inputs\whole_imgs -o results -v 1.4 -s 2
 
